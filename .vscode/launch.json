@@ -1,0 +1,392 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Application",
+            "request": "launch",
+            "mainClass": "Application",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrary",
+            "request": "launch",
+            "mainClass": "Arrary",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arthematic",
+            "request": "launch",
+            "mainClass": "Arthematic",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Atm",
+            "request": "launch",
+            "mainClass": "Atm",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch BasicRecursion",
+            "request": "launch",
+            "mainClass": "BasicRecursion",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bitwise_opt",
+            "request": "launch",
+            "mainClass": "Bitwise_opt",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateFIle",
+            "request": "launch",
+            "mainClass": "CreateFIle",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cuboid",
+            "request": "launch",
+            "mainClass": "Cuboid",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Domain",
+            "request": "launch",
+            "mainClass": "Domain",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonaci",
+            "request": "launch",
+            "mainClass": "Fibonaci",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch FileInfo",
+            "request": "launch",
+            "mainClass": "FileInfo",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch File_Write",
+            "request": "launch",
+            "mainClass": "File_Write",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch FinalKeyword",
+            "request": "launch",
+            "mainClass": "FinalKeyword",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch First1",
+            "request": "launch",
+            "mainClass": "First1",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Knapsack",
+            "request": "launch",
+            "mainClass": "Knapsack",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch LL",
+            "request": "launch",
+            "mainClass": "LL",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinearNonUnique",
+            "request": "launch",
+            "mainClass": "LinearNonUnique",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkListExample",
+            "request": "launch",
+            "mainClass": "LinkListExample",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch LowerRight",
+            "request": "launch",
+            "mainClass": "LowerRight",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch LowerRightNumber",
+            "request": "launch",
+            "mainClass": "LowerRightNumber",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Max2",
+            "request": "launch",
+            "mainClass": "Max2",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch NaturalRecurssion",
+            "request": "launch",
+            "mainClass": "NaturalRecurssion",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumPattern",
+            "request": "launch",
+            "mainClass": "NumPattern",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumPattern1",
+            "request": "launch",
+            "mainClass": "NumPattern1",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch ObjectAssignment",
+            "request": "launch",
+            "mainClass": "ObjectAssignment",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch OddEven",
+            "request": "launch",
+            "mainClass": "OddEven",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prandom",
+            "request": "launch",
+            "mainClass": "Prandom",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quadratic",
+            "request": "launch",
+            "mainClass": "Quadratic",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch RecursiveDigitalCount",
+            "request": "launch",
+            "mainClass": "RecursiveDigitalCount",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch RecursiveDigitalSum",
+            "request": "launch",
+            "mainClass": "RecursiveDigitalSum",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch RecursiveEven",
+            "request": "launch",
+            "mainClass": "RecursiveEven",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch RecurssionArr",
+            "request": "launch",
+            "mainClass": "RecurssionArr",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch RecurssiveSum",
+            "request": "launch",
+            "mainClass": "RecurssiveSum",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Shifting",
+            "request": "launch",
+            "mainClass": "Shifting",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Smallest",
+            "request": "launch",
+            "mainClass": "Smallest",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Swapping",
+            "request": "launch",
+            "mainClass": "Swapping",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Transposition",
+            "request": "launch",
+            "mainClass": "Transposition",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Unique",
+            "request": "launch",
+            "mainClass": "Unique",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch find",
+            "request": "launch",
+            "mainClass": "find",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertionSortRandom",
+            "request": "launch",
+            "mainClass": "insertionSortRandom",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertionSortUnique",
+            "request": "launch",
+            "mainClass": "insertionSortUnique",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch keybRead",
+            "request": "launch",
+            "mainClass": "keybRead",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch max",
+            "request": "launch",
+            "mainClass": "max",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch pyramid",
+            "request": "launch",
+            "mainClass": "pyramid",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch random",
+            "request": "launch",
+            "mainClass": "random",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch useRadix",
+            "request": "launch",
+            "mainClass": "useRadix",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch variable",
+            "request": "launch",
+            "mainClass": "variable",
+            "projectName": "java_119b7dde"
+        }
+    ]
+}
