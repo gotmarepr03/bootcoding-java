@@ -35,7 +35,15 @@ public class TypeCast {
         // converting "Double" value into "Int" value using "TypeCasting"
         int rounded_total_cost = (int) total_cost;
 
-        System.out.println(rounded_total_cost);
+        double temp = (total_cost - rounded_total_cost);
+
+        if (temp < 0.50) {
+
+            System.out.println(rounded_total_cost);
+        } else {
+            System.out.println(((int) total_cost + 1));
+        }
+
     }
 
     public static void main(String[] args) {
